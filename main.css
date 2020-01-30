@@ -1,0 +1,49 @@
+.col, .col-6, .col-5, .col-md-auto, .col-sm-8, .col-sm-4, .col-sm-6, .col-12, .col-md-8, .col-md-4{
+	border-color: pink;
+	border-style: ridge; 
+	padding: 20px;
+	
+}
+.align-self-start, .align-self-center, .align-self-end{
+	border-color: pink;
+	border-style: ridge; 
+	padding: 20px;
+
+}
+.col-sm{
+	border-color: pink;
+	border-style: ridge; 
+	padding: 20px;
+	margin-bottom: 10px;
+}
+
+
+.second{
+
+	padding: 20px;
+	margin-bottom: 20px;
+
+}
+
+.container, .third{
+	padding: 20px;
+	margin-top: 50px;
+}
+.no-gutters{
+	padding: 20px;
+	margin: 2px;
+}
+.upg{
+	text-align: center;
+	padding-top: 2px;
+}
+#list{
+	border-style: none;
+}
+.img-fluid{
+	width: 100%;
+	height: auto;
+}
+.rounded{
+	margin: 6px;
+}
